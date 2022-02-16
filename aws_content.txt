@@ -1,0 +1,11 @@
+Course content:
+AWS Services
+-Boto3
+-IAM
+-S3
+-SNS
+-Rekognition
+-AWS Translate
+-Comprehend
+
+
